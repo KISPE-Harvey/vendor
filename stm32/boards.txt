@@ -102,3 +102,8 @@ bluepill.menu.upload_method.bmpMethod.upload.tool=STM32:bmp_upload
 bluepill.bootloader.tool=openocd
 bluepill.bootloader.file=bluepill/nobootloader.hex
 
+################################################################################################
+
+STM32H753ZIT6.build.core=STM32:arduino
+
+STM32H753ZIT6.menu.upload_method.STLinkMethod.upload.tool=STM32:stlink_upload
