@@ -1,7 +1,7 @@
 {
     "packages": [
       {
-        "name": "STMicroelectronics",
+        "name": "KISPE",
         "websiteURL": "https://github.com/stm32duino",
         "maintainer": "STMicroelectronics",
         "email": "stmduino@st.com",
